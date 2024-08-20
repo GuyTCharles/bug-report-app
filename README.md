@@ -1,11 +1,8 @@
-# bug-report-web-app
-The Bug Report Web App is a secure, PHP-based tool designed for efficient bug tracking. Users can submit, update, and view bug reports via an intuitive interface. The app ensures data safety with SSL/TLS encryption and is optimized for usability, making it an essential tool for software development teams to manage issues effectively.
-
-Bug Report Web App
+# Bug Report Web App
 
 Description
 
-The Bug Report Web App is a secure, PHP-based tool designed to efficiently track and manage software bugs. It allows users to submit, update, and view bug reports via an intuitive interface. The app is designed with SSL/TLS encryption for data security and is optimized for usability, making it essential for development teams.
+Bug Report Web App is a secure PHP-based tool designed for efficient bug tracking. Users can submit, update, and view bug reports intuitively. The app ensures data security through SSL/TLS encryption and is optimized for usability, making it an essential tool for software development teams to manage issues efficiently.
 
 Setup Instructions
 
@@ -32,3 +29,5 @@ License Information
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 You can further customize this README.md according to your specific needs.
+
+
