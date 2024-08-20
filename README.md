@@ -23,7 +23,7 @@ Bug Report App is a secure web app, PHP-based tool designed for efficient bug tr
 ### License Information
 This project is licensed under the Apache License 2.0 License - see the [LICENSE](LICENSE) file for details.
 
-## Deployment Link
+### Deployment Link
 [Bug Report App](https://bugreportapp.sytes.net)
 
 
