@@ -26,7 +26,9 @@ Deployment Instructions
 
 License Information
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+
+This project is licensed under the [Apache License 2.0 License](LICENSE).
 
 You can further customize this README.md according to your specific needs.
 
