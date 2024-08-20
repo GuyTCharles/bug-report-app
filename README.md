@@ -1,6 +1,6 @@
 # Bug Report App
 
-## Description
+### Description
 Bug Report App is a secure web app, PHP-based tool designed for efficient bug tracking. Users can submit, update, and view bug reports via an intuitive interface. The app ensures data safety with SSL/TLS encryption and is optimized for usability, making it an essential tool for software development teams to manage issues effectively.
 
 ## Setup Instructions
